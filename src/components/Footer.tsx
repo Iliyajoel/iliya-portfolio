@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-20">
           <div className="lg:col-span-2">
             <div className="text-2xl font-display font-bold mb-2 tracking-tighter">
-              KOMSIRI<span className="text-blue-500">.</span>
+              IJ INTERNATIONAL<span className="text-blue-500">.</span>
             </div>
             <div className="text-sm font-medium text-white/40 mb-6 uppercase tracking-widest">
               Iliya Joel
@@ -59,7 +59,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-white/5 text-xs text-white/30 gap-4">
-          <p>© 2024 Komsiri Technologies. All rights reserved.</p>
+          <p>© 2024 IJ International. All rights reserved.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

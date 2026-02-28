@@ -25,7 +25,7 @@ export const projects: Project[] = [
     image: "https://picsum.photos/seed/edu/800/600"
   },
   {
-    title: "Komsiri Technologies",
+    title: "IJ International",
     description: "Tech startup hub based in Yola, bridging the gap between local talent and the global tech ecosystem.",
     link: "https://komsiri-technologies.vercel.app",
     tags: ["React", "Node.js", "Tailwind"],

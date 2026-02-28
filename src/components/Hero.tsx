@@ -37,7 +37,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-lg md:text-xl text-white/60 max-w-2xl mx-auto mb-10 leading-relaxed"
         >
-          I'm <span className="text-white font-semibold">Iliya Joel</span>, a Frontend Wizard & Founder of Komsiri Technologies, bridging the gap between Yola and the global tech ecosystem.
+          I'm <span className="text-white font-semibold">Iliya Joel</span>, a Frontend Wizard & Founder of IJ International, bridging the gap between Yola and the global tech ecosystem.
         </motion.p>
 
         <motion.div 

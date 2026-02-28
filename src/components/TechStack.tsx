@@ -6,7 +6,7 @@ export default function TechStack() {
     <section id="stack" className="py-24 px-6 relative">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-5xl font-display font-bold mb-4">The Arsenal</h2>
+          <h2 className="text-3xl md:text-5xl font-display font-bold mb-4">Technologies used</h2>
           <p className="text-white/50">Modern tools for modern solutions.</p>
         </div>
 

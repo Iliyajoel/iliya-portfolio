@@ -27,7 +27,7 @@ export default function Experience() {
             </h2>
             <div className="space-y-6 text-white/70 leading-relaxed">
               <p>
-                As the founder of Komsiri Technologies, I lead a team of passionate developers in Yola, Nigeria. We specialize in building high-performance web applications that solve real-world problems.
+                As the founder of IJ International, I lead a team of passionate developers in Yola, Nigeria. We specialize in building high-performance web applications that solve real-world problems.
               </p>
               <p>
                 My expertise lies in crafting seamless user experiences using modern frontend technologies. I believe in the power of code to transform communities and bridge the digital divide.
@@ -62,10 +62,10 @@ export default function Experience() {
             <div className="absolute -bottom-6 -left-6 glass p-6 rounded-3xl animate-float">
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-2xl bg-blue-500 flex items-center justify-center font-bold text-xl">
-                  K
+                  IJ
                 </div>
                 <div>
-                  <div className="font-bold">Komsiri Tech</div>
+                  <div className="font-bold">IJ International</div>
                   <div className="text-xs text-white/50">Founded in 2022</div>
                 </div>
               </div>

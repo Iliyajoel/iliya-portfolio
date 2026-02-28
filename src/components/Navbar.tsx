@@ -20,7 +20,7 @@ export default function Navbar() {
           animate={{ opacity: 1, x: 0 }}
           className="text-xl font-display font-bold tracking-tighter"
         >
-          KOMSIRI<span className="text-blue-500">.</span>
+          IJ INTERNATIONAL<span className="text-blue-500">.</span>
         </motion.div>
 
         {/* Desktop Nav */}
